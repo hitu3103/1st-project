@@ -1,3 +1,3 @@
 # 1st-project
-this is my first code project
+This is my first Git Repository
 Author- Hitakshi
